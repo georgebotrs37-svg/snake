@@ -71,6 +71,5 @@ README.md       # Project documentation
      Add a "No Walls" mode (pass through borders).
      👤 Author 
 George Botrs Azer
-     
-     [Your GitHub Profile Link]
+    https://github.com/georgebotrs37-svg 
      
