@@ -21,7 +21,7 @@ Snake Game Demo Tkinter
 
     Clone the repository (or download the script):
 
-    git clone https://github.com/your-username/snake-game.gitcd snake-game
+    git clone https://github.com/georgebotrs37-svg/snake/snake-game.gitcd snake-game
 
  
 
