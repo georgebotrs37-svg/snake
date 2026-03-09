@@ -38,6 +38,7 @@ Snake Game Demo Tkinter
 
 🎮 Controls 
 Action
+George Botrs Azer
  
 	
 Key Bindings
